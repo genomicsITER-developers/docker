@@ -205,7 +205,7 @@ UUID=02A5-3D12  /boot/efi       vfat    defaults        0       1
 UUID=239b63d0-a4e2-42a6-a8a8-0782bfc46913 none            swap    sw              0       0
 # /home he cambiado su ubicación a /dev/sdb7
 UUID=2cc39344-60c9-4a66-a25e-72edf2a524a7 /home           ext4    defaults          0       2
-# This is the external khard drive mounted on a fixed folder
+# This is the external hard drive mounted on a fixed folder
 UUID=c825e418-d764-465e-b0a0-16db87f20dd8 /media/jlorsal/hiseq4000hd1 ext4 defaults 0 2
 ```
 
