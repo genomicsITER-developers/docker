@@ -1,6 +1,6 @@
 # Docker (Ubuntu Trusty Tahr 14.04 LTS)
 
-This README explains how to install Docker in a Ubuntu 14.04 LTS system. It additionaly explains how to move the /var/lib/docker directory (images and containers) to an external hard drive, mounted in a fixed path in the system.
+This README explains how to install Docker in a Ubuntu 14.04 LTS system. It additionaly explains how to move the /var/lib/docker directory (images and containers) to an external hard drive via 'daemon.json' file at /etc/docker. It also explains how to modify fstab file to use the external drive mounted in a fixed path in the system.
 
 # Uninstall Docker
 See: https://askubuntu.com/questions/935569/how-to-completely-uninstall-docker
